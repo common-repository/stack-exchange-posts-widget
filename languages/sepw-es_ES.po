@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stack Posts Widget\n"
+"POT-Creation-Date: 2013-09-12 19:32+0100\n"
+"PO-Revision-Date: 2013-09-12 19:35+0100\n"
+"Last-Translator: Rodolfo Buaiz <brasofilo@gmai.com>\n"
+"Language-Team:  <brasofilo@gmail.com>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../stack-exchange-posts-widget.php:64
+msgid ""
+"Create widgets for any Stack Exchange site, display questions or answers by "
+"specific users or generic for the whole site. The random mode will show "
+"posts from different sites at each page view."
+msgstr ""
+"Crea widgets para cualquier site Stack Exchange, mostrando preguntas o "
+"respuestas de usuarios específicos o widgets genéricos para toda la "
+"actividad del sitio. El modo aleatorio mostrara posts de diferentes sitios a "
+"cada visualización."
+
+#: ../stack-exchange-posts-widget.php:116
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../stack-exchange-posts-widget.php:132
+msgid "Stack Posts Widget"
+msgstr "Widget de Stack Posts"
+
+#: ../stack-exchange-posts-widget.php:231
+msgid "Disable CSS"
+msgstr "Desactivar CSS"
+
+#: ../stack-exchange-posts-widget.php:235
+msgid "See the plugin"
+msgstr "Mira el"
+
+#: ../stack-exchange-posts-widget.php:237
+msgid "CSS file"
+msgstr "archivo CSS"
+
+#: ../stack-exchange-posts-widget.php:238
+msgid "to copy the rules."
+msgstr "para copiar las reglas"
+
+#: ../stack-exchange-posts-widget.php:255
+msgid "Disable cache"
+msgstr "Desactivar caché"
+
+#: ../stack-exchange-posts-widget.php:259
+msgid "For debugging purposes only"
+msgstr "Usa solo para <i>debugging</i>"
+
+#: ../stack-exchange-posts-widget.php:272
+msgid "Disable advanced Sites Dropdown"
+msgstr "Desactivar el Dropdown Avanzado de Sites"
+
+#: ../stack-exchange-posts-widget.php:276
+msgid ""
+"It may be buggy sometimes. E.G.: The Advanced Dropdown only works after "
+"saving the widget for the first time. And it is not tested in all browsers."
+msgstr ""
+"A veces puede dar problemas. P.ej.: el Dropdown Avanzado solo funciona "
+"después de guardar el widget por la primera vez. Y no está comprobado en "
+"todos los navegadores."
+
+#: ../stack-exchange-posts-widget.php:288
+msgid "Empty cache"
+msgstr "Vaciar caché"
+
+#: ../includes/class-sepw-widget-config.php:21
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../includes/class-sepw-widget-config.php:22
+msgid "Descending"
+msgstr "Descendiente"
+
+#: ../includes/class-sepw-widget-config.php:25
+msgid "Votes"
+msgstr "Votos"
+
+#: ../includes/class-sepw-widget-config.php:26
+msgid "Activity"
+msgstr "Actividad"
+
+#: ../includes/class-sepw-widget-config.php:27
+msgid "Creation"
+msgstr "Creación"
+
+#: ../includes/class-sepw-widget-config.php:31
+msgid ""
+"Display posts by User in any Stack Exchange site. Or show the site's recent "
+"activity."
+msgstr ""
+"Mostrar posts pro Usuario en cualquier sitio Stack Exchange. O mostrar la "
+"actividad reciente en un sitio."
+
+#: ../includes/class-sepw-widget-config.php:40
+#: ../includes/class-sepw-widget-config.php:159
+msgid "Stack Posts"
+msgstr "Stack Posts"
+
+#: ../includes/class-sepw-widget-config.php:133
+msgid "Title"
+msgstr "Titulo"
+
+#: ../includes/class-sepw-widget-config.php:136
+msgid "User ID"
+msgstr "ID de Usuario"
+
+#: ../includes/class-sepw-widget-config.php:137
+msgid "Leave empty to list global Q&A's."
+msgstr "Dejar vacío para mostrar Q&A's globales."
+
+#: ../includes/class-sepw-widget-config.php:139
+msgid "Posts per page"
+msgstr "Número de entradas"
+
+#: ../includes/class-sepw-widget-config.php:144
+msgid "Show subtitle?"
+msgstr "Mostrar subtitulo"
+
+#: ../includes/class-sepw-widget-config.php:145
+msgid "User/Site information bellow the title."
+msgstr "Información del Usuario o Site abajo del título"
+
+#: ../includes/class-sepw-widget-config.php:149
+msgid "Randomize site?"
+msgstr "Site aleatorio"
+
+#: ../includes/class-sepw-widget-config.php:150
+msgid "Only works when User not selected."
+msgstr "Solo funciona si ID de Usuario esta vacío"
+
+#: ../includes/class-sepw-widget-config.php:154
+msgid "Show Questions?"
+msgstr "Mostrar Preguntas?"
+
+#: ../includes/class-sepw-widget-config.php:155
+msgid "Leave unchecked to show Answers."
+msgstr "Dejar desmarcado para mostrar Respuestas"
+
+#: ../includes/class-sepw-widget-config.php:232
+msgid "Order"
+msgstr "Orden"
+
+#: ../includes/class-sepw-widget-config.php:241
+msgid "Sort"
+msgstr "Ordenar"
+
+#: ../includes/class-sepw-widget-print.php:67
+msgid "votes"
+msgstr "votos"
+
+#: ../includes/class-sepw-widget-print.php:68
+msgid "answers"
+msgstr "respuestas"
+
+#: ../includes/class-sepw-widget-print.php:296
+msgid "Target site"
+msgstr "Elegir sítio"
+
+#~ msgid "Title:"
+#~ msgstr "T"

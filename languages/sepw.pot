@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stack Posts Widget\n"
+"POT-Creation-Date: 2013-09-12 19:33+0100\n"
+"PO-Revision-Date: 2013-09-12 19:33+0100\n"
+"Last-Translator: Rodolfo Buaiz <brasofilo@gmai.com>\n"
+"Language-Team:  <brasofilo@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../stack-exchange-posts-widget.php:64
+msgid ""
+"Create widgets for any Stack Exchange site, display questions or answers by "
+"specific users or generic for the whole site. The random mode will show "
+"posts from different sites at each page view."
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:116
+msgid "Settings"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:132
+msgid "Stack Posts Widget"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:231
+msgid "Disable CSS"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:235
+msgid "See the plugin"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:237
+msgid "CSS file"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:238
+msgid "to copy the rules."
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:255
+msgid "Disable cache"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:259
+msgid "For debugging purposes only"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:272
+msgid "Disable advanced Sites Dropdown"
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:276
+msgid ""
+"It may be buggy sometimes. E.G.: The Advanced Dropdown only works after "
+"saving the widget for the first time. And it is not tested in all browsers."
+msgstr ""
+
+#: ../stack-exchange-posts-widget.php:288
+msgid "Empty cache"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:21
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:22
+msgid "Descending"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:25
+msgid "Votes"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:26
+msgid "Activity"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:27
+msgid "Creation"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:31
+msgid ""
+"Display posts by User in any Stack Exchange site. Or show the site's recent "
+"activity."
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:40
+#: ../includes/class-sepw-widget-config.php:159
+msgid "Stack Posts"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:133
+msgid "Title"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:136
+msgid "User ID"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:137
+msgid "Leave empty to list global Q&A's."
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:139
+msgid "Posts per page"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:144
+msgid "Show subtitle?"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:145
+msgid "User/Site information bellow the title."
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:149
+msgid "Randomize site?"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:150
+msgid "Only works when User not selected."
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:154
+msgid "Show Questions?"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:155
+msgid "Leave unchecked to show Answers."
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:232
+msgid "Order"
+msgstr ""
+
+#: ../includes/class-sepw-widget-config.php:241
+msgid "Sort"
+msgstr ""
+
+#: ../includes/class-sepw-widget-print.php:67
+msgid "votes"
+msgstr ""
+
+#: ../includes/class-sepw-widget-print.php:68
+msgid "answers"
+msgstr ""
+
+#: ../includes/class-sepw-widget-print.php:296
+msgid "Target site"
+msgstr ""
